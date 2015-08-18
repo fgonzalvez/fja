@@ -21,6 +21,10 @@ nav {
     margin-bottom: 0px !important;
 }
 
+p{
+    font-size: 16px;
+}
+
 .img-portfolio {
     margin: 0px auto 30px auto;
     width: 250px;
@@ -133,4 +137,53 @@ footer {
 
 .page-header {
     font-family: 'Oswald', 'Arial', sans-serif;
+}
+
+h2 {
+    font-family: 'Oswald', 'Arial', sans-serif;
+}
+
+h1 {
+    font-family: 'Oswald', 'Arial', sans-serif;
+}
+
+.section-img {
+    border-radius: 10px;
+}
+
+.header-custom {
+    border-radius: 10px;
+}
+
+.historia-img {
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.empresa-img {
+    border-radius: 10px;
+}
+
+.section-title {
+    padding: 20px 0px 20px 30px;
+    background-color: #f0f0f0;
+}
+
+.section-contacto {
+    text-align: center;
+}
+
+.section-contacto p {
+    font-size: 22px;
+}
+
+.img-calidad2 {
+    margin: 0 auto;
+    width: 400px;
+    border: solid;
+}
+
+.img-top-fruits {
+    width: 380px;
+    margin: 0 auto;
 }
