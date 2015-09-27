@@ -87,10 +87,9 @@ header.carousel .fill {
 
 /* Footer Styles */
 
-footer {
-    margin: 50px 0;
+footer p {
+    margin: 0px;
 }
-
 /* Responsive Styles */
 
 @media(max-width:991px) {
@@ -133,6 +132,7 @@ footer {
 .section-footer {
     background-color: #101010;
     color: white;
+    padding: 20px;
 }
 
 .page-header {
@@ -169,6 +169,10 @@ h1 {
     background-color: #f0f0f0;
 }
 
+.section-grey {
+    background-color: #f0f0f0;
+}
+
 .section-contacto {
     text-align: center;
 }
@@ -184,6 +188,38 @@ h1 {
 }
 
 .img-top-fruits {
-    width: 380px;
-    margin: 0 auto;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.title2 {
+    margin-bottom: 30px;
+}
+
+table {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+.col-table {
+    padding-top: 180px;
+}
+
+#index-mango {
+    background: url("../img/mango_fondo.jpg");
+}
+
+.section-no-padding-top {
+    padding-top: 0px;
+}
+
+p {
+    text-align: justify;
+}
+
+.section-contacto p  {
+
+    text-align: center;
 }
